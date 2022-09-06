@@ -7,3 +7,4 @@ Task 5:Create a script that lists all local variables and environment variables,
 Task 6:Create a script that creates a new local variable.
 Task 7:Create a script that creates a new global variable.
 Task 8:Write a script that prints the result of the addition of 128
+Task 9:Write a script that prints the result of POWER divided by DIVIDE
