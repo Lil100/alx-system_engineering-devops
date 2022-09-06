@@ -13,3 +13,8 @@ Task 11:script that converts a number from base 2 to base 10
 Task 12:Create a script that prints all possible combinations of two letters 
 Task13:Write a script that prints a number with two decimal places
 Task 14:Write a script that converts a number from base 10 to base 16  
+Task 15:Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+
+
+
