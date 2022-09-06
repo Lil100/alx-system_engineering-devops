@@ -1,1 +1,2 @@
-Task 0:Create a script that creates an alias
+Task 1 prints hello world
+Task 0: How to create alias
