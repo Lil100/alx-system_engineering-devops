@@ -1,3 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo"
-Task 12:Create a script that prints all possible combinations of two letters
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v "o"
