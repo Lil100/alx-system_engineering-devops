@@ -1,0 +1,3 @@
+#!/bin/bash
+printf '%x \n' $DECIMAL
+Task 14:Write a script that converts a number from base 10 to base 16
